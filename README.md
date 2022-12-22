@@ -19,6 +19,8 @@ try out the following conditions for MATLAB:
 
 ![\Large P(t)=4.5-4.5cos(\frac{\pi*t}{10})](https://latex.codecogs.com/svg.latex?\Large&space;P(t)=4.5-4.5cos(\frac{\pi*t}{10})) 
 
+![\Large 5000 N/m \leq K_1, K_2 \leq 20000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;5000 N/m \leq K_1, K_2 \leq 20000 N/m ) 
+
 ![\Large 5000 N/m \leq K_1, K_2 \leq 20000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;5000 N/m \leq K_1, K_2 \leq 20000 N/m)
 ![\Large 9000 N/m \leq K_3, K_4 \leq 150000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;9000 N/m \leq K_3, K_4 \leq 150000 N/m)
 ![\Large 500 N.s/m \leq C_1, C_2 \leq 2000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;500 N/m \leq C_1, C_2 \leq 2000 N/m)
