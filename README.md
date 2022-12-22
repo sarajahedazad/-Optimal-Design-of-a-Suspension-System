@@ -20,7 +20,7 @@ try out the following conditions for MATLAB:
 
 
 ## Initial Conditions
-![\Large x = 0](https://latex.codecogs.com/svg.latex?\Large&space;x = 0) 
+![\Large x ](https://latex.codecogs.com/svg.latex?\Large&space; x ) 
 
 ![\Large x_2(0) = 0](https://latex.codecogs.com/svg.latex?\Large&space; x_2(0) = 0)
 
