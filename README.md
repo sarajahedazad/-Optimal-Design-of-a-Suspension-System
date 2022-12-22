@@ -17,7 +17,7 @@ try out the following conditions for MATLAB:
 
 
 ## Constraints
-![\Large x_1(0)<=0.03](https://latex.codecogs.com/svg.latex?\Large&space;x_1(0) \leq 0.03) 
+
 
 ## Initial Conditions
 ![\Large x_1(0)=0.03](https://latex.codecogs.com/svg.latex?\Large&space;x_1(0)=0.03) 
