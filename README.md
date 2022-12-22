@@ -21,7 +21,8 @@ try out the following conditions for MATLAB:
 
 ## Initial Conditions
 ![\Large x_1(0)=0.03](https://latex.codecogs.com/svg.latex?\Large&space;x_1(0)=0.03) 
-
+![\Large x_2(0)=0](https://latex.codecogs.com/svg.latex?\Large&space;x_2(0)=0) 
+![\Large x_3(0)=0](https://latex.codecogs.com/svg.latex?\Large&space;x_3(0)=0) 
 
 ## Cost Function
 
