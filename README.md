@@ -24,7 +24,7 @@ try out the following conditions for MATLAB:
 
 ![\Large [5000 N/m &le K_1, K_2 &le 20000 N/m \]](https://latex.codecogs.com/svg.latex?\Large&space;\documentclass{article};\usepackage{amsmath,amsfonts};[5000 N/m \leq K_1, K_2 \leq 20000 N/m \] ) 
 
-![\Large 5000 N/m \leq K_1, K_2 \leq 20000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;5000 N/m \leq K_1, K_2 \leq 20000 N/m)
+![\Large 5000 N/m <= K_1, K_2 <= 20000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;5000 N/m <= K_1, K_2 <= 20000 N/m)
 ![\Large 9000 N/m \leq K_3, K_4 \leq 150000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;9000 N/m \leq K_3, K_4 \leq 150000 N/m)
 ![\Large 500 N.s/m \leq C_1, C_2 \leq 2000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;500 N/m \leq C_1, C_2 \leq 2000 N/m)
 ![\Large 500 N.s/m \leq C_3, C_4 \leq 2000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;500 N/m \leq C_3, C_4 \leq 2000 N/m)
