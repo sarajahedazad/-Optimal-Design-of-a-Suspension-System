@@ -20,7 +20,7 @@ try out the following conditions for MATLAB:
 
 
 ## Initial Conditions
-![\Large x=1](https://latex.codecogs.com/svg.latex?\Large&space;x=1) 
+![\Large x_1(0)=0.03](https://latex.codecogs.com/svg.latex?\Large&space;x_1(0)=0.03) 
 
 
 ## Cost Function
