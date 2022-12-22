@@ -12,7 +12,7 @@ try out the following conditions for MATLAB:
 * Default settings
 * Change population type to "bit string"
 * Change population size to 500
-* 
+* Change fitness scaling
 *
 
 
