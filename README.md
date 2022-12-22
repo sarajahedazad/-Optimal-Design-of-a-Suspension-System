@@ -20,7 +20,7 @@ try out the following conditions for MATLAB:
 
 
 ## Initial Conditions
-![\Large G(s)=\frac{P(s)}{T(s)}=\frac{1}{s^3+2s^2}](https://latex.codecogs.com/svg.latex?\Large&space;G(s)=\frac{P(s)}{T(s)}=\frac{1}{s^3+2s^2+11s}) 
+![\Large x=1](https://latex.codecogs.com/svg.latex?\Large&space;x=1) 
 
 
 ## Cost Function
