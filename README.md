@@ -11,7 +11,9 @@ Using genetic algorithms, find K1:4 and C1:4 so that the cost function gets mini
 try out the following conditions for MATLAB:
 * Default settings
 * Change population type to "bit string"
+* Change population size to 500
 * 
+*
 
 
 ## Constraints
@@ -19,7 +21,9 @@ try out the following conditions for MATLAB:
 
 ## Initial Conditions
 ![\Large x_1(0) = 0.03](https://latex.codecogs.com/svg.latex?\Large&space; x_1(0) = 0.03)
+
 ![\Large x_2(0) = 0](https://latex.codecogs.com/svg.latex?\Large&space; x_2(0) = 0)
+
 ![\Large x_3(0) = 0](https://latex.codecogs.com/svg.latex?\Large&space; x_3(0) = 0)
 
 
