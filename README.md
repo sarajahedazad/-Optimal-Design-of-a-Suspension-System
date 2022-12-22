@@ -15,21 +15,7 @@ try out the following conditions for MATLAB:
 
 
 ## Constraints
-![\Large G(s)=\frac{P(s)}{T(s)}=\frac{1}{s^3+2s^2}](https://latex.codecogs.com/svg.latex?\Large&space;G(s)=\frac{P(s)}{T(s)}=\frac{1}{s^3+2s^2+11s}) 
 
-![\Large P(t)=4.5-4.5cos(\frac{\pi*t}{10})](https://latex.codecogs.com/svg.latex?\Large&space;P(t)=4.5-4.5cos(\frac{\pi*t}{10})) 
-
-
-500 &le 400;
-
-![\Large 5000N/m \leq ](https://latex.codecogs.com/svg.latex?\Large&space;5000N/m \leq )
-
-![\Large [5000 N/m &le K_1, K_2 &le 20000 N/m \]](https://latex.codecogs.com/svg.latex?\Large&space;\documentclass{article};\usepackage{amsmath,amsfonts};[5000 N/m \leq K_1, K_2 \leq 20000 N/m \] ) 
-
-![\Large 5000 N/m <= K_1, K_2 <= 20000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;5000 N/m <= K_1, K_2 <= 20000 N/m)
-![\Large 9000 N/m \leq K_3, K_4 \leq 150000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;9000 N/m \leq K_3, K_4 \leq 150000 N/m)
-![\Large 500 N.s/m \leq C_1, C_2 \leq 2000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;500 N/m \leq C_1, C_2 \leq 2000 N/m)
-![\Large 500 N.s/m \leq C_3, C_4 \leq 2000 N/m](https://latex.codecogs.com/svg.latex?\Large&space;500 N/m \leq C_3, C_4 \leq 2000 N/m)
 
 ## Initial Conditions
 ![\Large x_1(0) = 0.03](https://latex.codecogs.com/svg.latex?\Large&space; x_1(0) = 0.03)
@@ -51,4 +37,4 @@ The codes written for this section are provided in the
 
 ## Python
 
-The library used for this part is geneticalgorithm.
+The library used for this part is ![geneticalgorithm](https://pypi.org/project/geneticalgorithm/).
