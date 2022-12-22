@@ -20,16 +20,12 @@ try out the following conditions for MATLAB:
 
 
 ## Initial Conditions
-![\Large x ](https://latex.codecogs.com/svg.latex?\Large&space; x ) 
-
-![\Large x_2(0) = 0](https://latex.codecogs.com/svg.latex?\Large&space; x_2(0) = 0)
-
-![\Large x_3(0) = 0](https://latex.codecogs.com/svg.latex?\Large&space; x_3(0) = 0)
+![\Large G(s)=\frac{P(s)}{T(s)}=\frac{1}{s^3+2s^2}](https://latex.codecogs.com/svg.latex?\Large&space;G(s)=\frac{P(s)}{T(s)}=\frac{1}{s^3+2s^2+11s}) 
 
 
 ## Cost Function
 
-![\Large RMS( \ddot{x_1}) + 5RMS(\dot{x_2}) ](https://latex.codecogs.com/svg.latex?\Large&space; RMS( \ddot{x_1}) + 5RMS(\dot{x_2}))
+
 
 # Solution
 
