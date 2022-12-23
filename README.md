@@ -32,7 +32,7 @@ try out the following conditions for MATLAB:
 
 # Solution
 
-First, we need to drive matrices of this system. You can find my solution [here]().
+First, we need to drive matrices of this system. You can find my solution [here](https://github.com/sarajahedazad/Optimal-Design-of-a-Suspension-System/blob/main/Using%20Lagrange%20multipliers%20to%20solve%20the%20problem.pdf).
 
 
 ## MATLAB
@@ -40,4 +40,4 @@ The codes written for this section are provided in the
 
 ## Python
 
-The library used for this part is ![geneticalgorithm](https://pypi.org/project/geneticalgorithm/).
+The library used for this part is [geneticalgorithm](https://pypi.org/project/geneticalgorithm/).
