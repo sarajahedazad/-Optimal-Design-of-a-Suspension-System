@@ -22,9 +22,12 @@ try out the following conditions for MATLAB:
 
 ## Constraints
 
-![\Large 5000N/m<=X_1,X_2<=20000N/m](https://latex.codecogs.com/svg.latex?\Large&space;5000N/m<=X_1,X_2<=20000N/m) 
+![\Large 5000N/m<=X_1,X_2<=20000N/m](https://latex.codecogs.com/svg.latex?\Large&space;5000N/m<=K_1,K_2<=20000N/m) 
 
-![\Large 90000N/m<=X_1,X_2<=150000N/m](https://latex.codecogs.com/svg.latex?\Large&space;90000N/m<=X_1,X_2<=150000N/m) 
+![\Large 90000N/m<=X_1,X_2<=150000N/m](https://latex.codecogs.com/svg.latex?\Large&space;90000N/m<=K_3,K_4<=150000N/m) 
+
+![\Large 5000N/m<=X_1,X_2<=20000N/m](https://latex.codecogs.com/svg.latex?\Large&space;500N.s/m<=C_1,C_2,C_3,C_4<=2000N.s/m) 
+
 
 
 ## Initial Conditions
