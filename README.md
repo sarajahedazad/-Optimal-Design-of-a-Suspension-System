@@ -8,7 +8,7 @@ Using genetic algorithms, find K1:4 and C1:4 so that the cost function gets mini
 
 ![alt text](https://github.com/sarajahedazad/Optimal-Design-of-a-Suspension-System/blob/main/Suspension_System.JPG)
 
-<img src="https://github.com/sarajahedazad/Optimal-Design-of-a-Suspension-System/blob/main/Suspension_System.JPG" width=100>
+<img src="https://github.com/sarajahedazad/Optimal-Design-of-a-Suspension-System/blob/main/Suspension_System.JPG" width=50%>
 
 try out the following conditions for MATLAB:
 * Default settings
