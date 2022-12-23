@@ -22,7 +22,7 @@ try out the following conditions for MATLAB:
 
 ## Constraints
 
-![\Large 5000N/m<=K_1,K_2<=20000N/m](https://latex.codecogs.com/svg.latex?\Large&space; 5000N/m<=K_1,K_2<=20000N/m ) 
+![\Large 5000N/m<=K_1,K_2<=20000N/m](https://latex.codecogs.com/svg.latex?\Large&space; 5000<=K_1 ) 
 
 
 ## Initial Conditions
