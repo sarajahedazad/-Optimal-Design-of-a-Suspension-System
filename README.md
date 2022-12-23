@@ -6,7 +6,7 @@ I have used genetic algorithms in both MATLAB and Python for this optimization.
 
 Using genetic algorithms, find K1:4 and C1:4 so that the cost function gets minimized.
 
-![alt text](https://github.com/sarajahedazad/Optimal-Design-of-a-Suspension-System/blob/main/Suspension_System.JPG | width=100)
+![alt text](https://github.com/sarajahedazad/Optimal-Design-of-a-Suspension-System/blob/main/Suspension_System.JPG =250x250)
 
 try out the following conditions for MATLAB:
 * Default settings
