@@ -39,7 +39,7 @@ try out the following conditions for MATLAB:
 
 ## Cost Function
 
-
+![\Large](https://latex.codecogs.com/svg.latex?\Large&space;RMS(\ddot{X_1})+5RMS(\dot{X_2})) 
 
 # Solution
 
