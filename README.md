@@ -22,7 +22,7 @@ try out the following conditions for MATLAB:
 
 ## Constraints
 
-![\Large 5000](https://latex.codecogs.com/svg.latex?\Large&space; 5000) 
+![\Large 5000<=X_1](https://latex.codecogs.com/svg.latex?\Large&space;5000<=X_1) 
 
 
 ## Initial Conditions
