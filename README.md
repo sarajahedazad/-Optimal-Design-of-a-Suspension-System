@@ -24,6 +24,8 @@ try out the following conditions for MATLAB:
 
 ![\Large 5000N/m<=X_1,X_2<=20000N/m](https://latex.codecogs.com/svg.latex?\Large&space;5000N/m<=X_1,X_2<=20000N/m) 
 
+![\Large 90000N/m<=X_1,X_2<=150000N/m](https://latex.codecogs.com/svg.latex?\Large&space;90000N/m<=X_1,X_2<=150000N/m) 
+
 
 ## Initial Conditions
 ![\Large x_1(0)=0.03](https://latex.codecogs.com/svg.latex?\Large&space;x_1(0)=0.03) 
