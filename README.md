@@ -13,10 +13,16 @@ try out the following conditions for MATLAB:
 * Change population type to "bit string"
 * Change population size to 500
 * Change fitness scaling
-*
+* Use tournament for selection
+* Use twopoint crossover
+* Change CrossoverFraction to 0.3
+* Change MaxStallGenerations to 10
+* Change  to 0.001
 
 
 ## Constraints
+
+![\Large 5000N/m<=K_1,K_2<=20000N/m](https://latex.codecogs.com/svg.latex?\Large&space; x\leq ) 
 
 
 ## Initial Conditions
